@@ -1,0 +1,3 @@
+# Canavas.js
+A canvas library for creating easy and fast games, etc... 
+### Currently in building stage (alpha)!!!
